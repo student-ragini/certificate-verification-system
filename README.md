@@ -1,2 +1,2 @@
-# certificate-verification-system 
-Author - Ragini kumari
+##CERTIFICATE VERIFICATION SYSTEM, 
+AUTHOR - NIKHIL SETH
